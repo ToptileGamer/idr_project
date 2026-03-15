@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 350 100">
+  <g transform="translate(10, 0)">
+    <polygon points="40,20 65,35 65,65 40,80 15,65 15,35" fill="none" stroke="#FFFFFF" stroke-width="3" stroke-linejoin="round"/>
+    <polygon points="40,20 65,35 40,50 15,35" fill="#FF5722"/>
+    <polygon points="15,35 40,50 40,80 15,65" fill="#FFFFFF"/>
+    <polygon points="65,35 40,50 40,80 65,65" fill="#333333"/>
+    <polyline points="40,50 40,80" stroke="#333333" stroke-width="1.5"/>
+    <polyline points="15,35 40,50 65,35" stroke="#FFFFFF" stroke-width="1.5"/>
+  </g>
+  <text x="95" y="50" font-family="'Inter', 'Segoe UI', sans-serif" font-weight="700" font-size="22" fill="#FFFFFF" letter-spacing="1">INSTITUTE OF</text>
+  <text x="95" y="75" font-family="'Inter', 'Segoe UI', sans-serif" font-weight="600" font-size="22" fill="#FF5722" letter-spacing="1">DIGITAL RISK</text>
+</svg>
